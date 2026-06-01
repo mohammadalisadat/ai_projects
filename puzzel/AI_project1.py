@@ -1,4 +1,4 @@
-لهimport time
+import time
 import random
 import heapq
 import collections
